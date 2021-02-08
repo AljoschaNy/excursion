@@ -28,3 +28,7 @@ p {
 footer {
     text-align: right;
 }
+
+.whitespace {
+    height: 20px;
+}
